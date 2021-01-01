@@ -30,3 +30,16 @@ p {
     margin-left: auto;
     margin-top: auto;
 }
+
+#p1 {
+    background-color: pink;
+}
+
+#p2 {
+    background-color: maroon;
+    color: white;
+}
+
+#p3 {
+    background-color: yellow;
+}
