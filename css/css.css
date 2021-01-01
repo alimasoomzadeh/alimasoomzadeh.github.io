@@ -1,0 +1,17 @@
+/********* Base Styles ******/
+* {
+    box-sizing: border-box;
+}
+
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.sectionBox {
+    background-color: gray;
+    float: left;
+    border: 2px solid black;
+}
