@@ -15,3 +15,7 @@ h1 {
     float: left;
     border: 2px solid black;
 }
+
+.description {
+    padding: 2%;
+}
