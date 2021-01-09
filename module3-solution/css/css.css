@@ -1,0 +1,49 @@
+/********* Base Styles ******/
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.sectionBox {
+    margin-top: 1%;
+    background-color: #c5c3c3;
+    float: left;
+}
+
+.description {
+    padding: 2%;
+}
+
+.boxTitle {
+    text-align: center;
+}
+
+/********* Desktop Devices Only *******/
+@media (min-width: 992px) {
+    #collapsibleNavbar {
+        display: none !important;
+    }
+
+    .backToTop {
+        display: none !important;
+    }
+}
+
+
+/*********** Tablet Devices Only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+    #collapsibleNavbar {
+        display: none !important;
+    }
+
+    .backToTop {
+        display: none !important;
+    }
+}
+
+
